@@ -1,0 +1,15 @@
+{
+    "associateOID": "GOUQLKNWZKUPRCRZ",
+    "calculationTypeCode": {
+        "code": "time calculation input",
+        "name": "test"
+    },
+    "legalEntityReference": {
+        "countryCode": "USA",
+        "legalEntityID": "ID"
+    },
+    "module": "Meal",
+    "testCaseNumber": "TC1",
+    "timezone": "America/New_York",
+    "workAgreementID": "428264838N"
+}
